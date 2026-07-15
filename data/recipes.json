@@ -1,0 +1,396 @@
+[
+  {
+    "id": "ameijoas-bulhao-pato",
+    "title": "Amêijoas à Bulhão Pato",
+    "category": "entradas",
+    "servings": "4 adultos + 1 criança",
+    "time": "25–35 min",
+    "difficulty": "Fácil",
+    "miguelin": 5,
+    "intro": "Um clássico português cheio de frescura, com alho, coentros e um molho que pede pão à mesa.",
+    "ingredients": [
+      "2 kg de amêijoas",
+      "80 ml de azeite",
+      "4 dentes de alho laminados",
+      "100 ml de vinho branco seco",
+      "1 molho pequeno de coentros picados",
+      "Sumo de 1/2 limão",
+      "Pimenta preta q.b."
+    ],
+    "steps": [
+      "Lava bem as amêijoas. Se não vierem depuradas, deixa-as durante 20–30 minutos em água fria com sal e volta a passá-las por água limpa.",
+      "Aquece o azeite numa frigideira larga ou num tacho baixo, em lume médio-alto.",
+      "Junta o alho laminado e deixa-o libertar o aroma durante 30–45 segundos, sem ganhar demasiada cor.",
+      "Adiciona as amêijoas, envolve-as no azeite e rega com o vinho branco.",
+      "Tapa e cozinha durante 3–5 minutos, abanando o recipiente a meio, até as conchas abrirem.",
+      "Retira as amêijoas que continuarem fechadas. Junta os coentros, o sumo de limão e pimenta preta moída na hora.",
+      "Envolve uma última vez e serve imediatamente, com pão para aproveitar o molho."
+    ],
+    "tips": [
+      "Depois de as conchas abrirem, evita prolongar a cozedura para as amêijoas não ficarem rijas.",
+      "Prova o molho antes de juntar sal: as amêijoas já trazem bastante sabor a mar."
+    ],
+    "shopping": [
+      "Amêijoas",
+      "Azeite",
+      "Alho",
+      "Vinho branco seco",
+      "Coentros",
+      "Limão",
+      "Pimenta preta",
+      "Pão"
+    ],
+    "tags": ["marisco", "portuguesa", "rápido", "tacho", "sem forno", "para partilhar"],
+    "photo": "",
+    "featured": false,
+    "published": true
+  },
+  {
+    "id": "pan-con-tomate",
+    "title": "Pan con tomate",
+    "category": "entradas",
+    "servings": "4 pessoas",
+    "time": "10 min",
+    "difficulty": "Muito fácil",
+    "miguelin": 4,
+    "intro": "Pão bem tostado, tomate maduro e um fio generoso de azeite: poucos ingredientes, tratados como deve ser.",
+    "ingredients": [
+      "Pão rústico ou baguete",
+      "3 tomates maduros",
+      "1 dente de alho",
+      "Azeite virgem extra",
+      "Flor de sal",
+      "Presunto opcional"
+    ],
+    "steps": [
+      "Corta o pão em fatias com cerca de dois centímetros de espessura.",
+      "Torra as fatias até ficarem douradas e crocantes por fora, mas ainda macias no centro.",
+      "Corta o dente de alho ao meio e esfrega levemente a superfície quente do pão.",
+      "Corta os tomates ao meio e esfrega a polpa diretamente no pão. Em alternativa, rala-os e distribui a polpa com uma colher.",
+      "Finaliza com flor de sal e um fio generoso de azeite virgem extra. Junta presunto, se quiseres, e serve de imediato."
+    ],
+    "tips": [
+      "Escolhe tomates bem maduros e monta as fatias apenas na hora de servir para o pão continuar crocante."
+    ],
+    "shopping": [
+      "Pão rústico",
+      "Tomates maduros",
+      "Alho",
+      "Azeite virgem extra",
+      "Flor de sal",
+      "Presunto opcional"
+    ],
+    "tags": ["vegetariano", "espanhola", "rápido", "sem forno", "pão"],
+    "photo": "",
+    "featured": false,
+    "published": true
+  },
+  {
+    "id": "salada-fresca-sem-pimentos",
+    "title": "Salada fresca sem pimentos",
+    "category": "entradas",
+    "servings": "4 pessoas",
+    "time": "15 min",
+    "difficulty": "Muito fácil",
+    "miguelin": 3,
+    "intro": "Uma salada leve e direta, com tomate, pepino, cebola roxa e um tempero vivo de Jerez e limão.",
+    "ingredients": [
+      "3 tomates maduros",
+      "1 pepino",
+      "1/2 cebola roxa",
+      "Azeitonas",
+      "Azeite",
+      "Vinagre de Jerez",
+      "Gotas de limão",
+      "Sal"
+    ],
+    "steps": [
+      "Lava os legumes e corta o tomate em gomos regulares.",
+      "Corta o pepino em meias-luas e lamina a cebola roxa o mais fino possível.",
+      "Coloca tudo numa travessa larga e acrescenta as azeitonas.",
+      "Tempera com azeite, vinagre de Jerez, algumas gotas de limão e sal.",
+      "Envolve com cuidado e deixa repousar durante 10 minutos antes de servir."
+    ],
+    "tips": [
+      "Se preferires uma cebola mais suave, passa-a por água fria depois de a laminar.",
+      "Faz o tempero perto da hora de servir para os legumes manterem a textura."
+    ],
+    "shopping": ["Tomates maduros", "Pepino", "Cebola roxa", "Azeitonas", "Azeite", "Vinagre de Jerez", "Limão"],
+    "tags": ["vegetariano", "fresco", "sem forno", "rápido", "acompanhamento"],
+    "photo": "",
+    "featured": false,
+    "published": true
+  },
+  {
+    "id": "arroz-frito-camarao",
+    "title": "Arroz frito com camarão",
+    "category": "pratos-principais",
+    "servings": "2–3 pessoas",
+    "time": "25–30 min",
+    "difficulty": "Fácil",
+    "miguelin": 4,
+    "intro": "Uma forma rápida e cheia de sabor de transformar arroz frio num jantar completo, com camarão, legumes e ovo.",
+    "ingredients": [
+      "2 chávenas de arroz cozido frio",
+      "250 g de camarão cru descascado",
+      "2 ovos",
+      "1 cenoura em cubinhos",
+      "1/2 chávena de ervilhas",
+      "1/2 cebola picada",
+      "2 dentes de alho",
+      "Molho de soja",
+      "Óleo de sésamo",
+      "Molho de ostra opcional",
+      "Açúcar",
+      "Óleo neutro",
+      "Sal e pimenta"
+    ],
+    "steps": [
+      "Seca o camarão, tempera-o com sal e pimenta e salteia-o rapidamente numa frigideira ou wok bem quente com um pouco de óleo. Retira e reserva.",
+      "Bate os ovos, deita-os na mesma frigideira e mexe apenas até coagularem. Retira-os ainda macios e reserva.",
+      "Junta mais um fio de óleo e salteia a cebola e o alho até ficarem aromáticos.",
+      "Acrescenta a cenoura e as ervilhas. Cozinha durante alguns minutos, mantendo os legumes ligeiramente firmes.",
+      "Junta o arroz frio e separa bem os grãos com a espátula. Deixa-o aquecer e ganhar alguma cor.",
+      "Tempera com molho de soja, umas gotas de óleo de sésamo, molho de ostra e uma pitada de açúcar, se usares.",
+      "Volta a juntar o camarão e os ovos, envolve tudo e prova antes de corrigir o sal.",
+      "Serve imediatamente, com mais umas gotas de óleo de sésamo no final."
+    ],
+    "tips": [
+      "O arroz cozido do dia anterior fica mais solto e frita melhor.",
+      "Trabalha com a frigideira bem quente e não a sobrecarregues."
+    ],
+    "shopping": ["Arroz", "Camarão cru", "Ovos", "Cenoura", "Ervilhas", "Cebola", "Alho", "Molho de soja", "Óleo de sésamo", "Molho de ostra", "Óleo vegetal"],
+    "tags": ["marisco", "asiático", "arroz", "rápido", "frigideira", "sem forno"],
+    "photo": "",
+    "featured": false,
+    "published": true
+  },
+  {
+    "id": "ramen-caseiro-rapido",
+    "title": "Ramen caseiro rápido",
+    "category": "pratos-principais",
+    "servings": "2 porções",
+    "time": "35–45 min",
+    "difficulty": "Médio",
+    "miguelin": 5,
+    "intro": "Uma tigela reconfortante de caldo aromático, noodles, porco salteado e ovo de gema cremosa.",
+    "ingredients": [
+      "1 litro de água",
+      "Caldo ou pasta miso",
+      "Molho de soja",
+      "Óleo de sésamo",
+      "Alho",
+      "Gengibre opcional",
+      "Porco fatiado",
+      "Açúcar ou mel",
+      "Vinagre de arroz ou limão",
+      "2 ovos",
+      "Noodles",
+      "Toppings a gosto"
+    ],
+    "steps": [
+      "Coloca a água num tacho e junta o caldo ou a pasta miso, alho, gengibre e molho de soja.",
+      "Deixa levantar fervura e cozinha em lume brando durante 10–15 minutos para apurar o sabor.",
+      "Tempera o porco com molho de soja, açúcar ou mel e um pouco de vinagre de arroz. Salteia-o numa frigideira bem quente e reserva.",
+      "Coze os ovos durante 6 minutos e 30 segundos a 7 minutos. Passa-os imediatamente para água bem fria e descasca-os com cuidado.",
+      "Se tiveres tempo, deixa os ovos ganhar sabor numa mistura de soja, água e um pouco de açúcar.",
+      "Coze os noodles à parte, seguindo o tempo indicado na embalagem, e escorre-os bem.",
+      "Divide os noodles por duas tigelas, cobre com o caldo quente e termina com o porco, os ovos cortados ao meio e os toppings escolhidos."
+    ],
+    "tips": [
+      "O ovo pode ficar a marinar até 12 horas no frigorífico.",
+      "Cozer os noodles à parte ajuda a manter o caldo mais limpo."
+    ],
+    "shopping": ["Noodles", "Porco fatiado", "Ovos", "Caldo ou pasta miso", "Molho de soja", "Óleo de sésamo", "Alho", "Gengibre", "Vinagre de arroz", "Cebolinho"],
+    "tags": ["asiático", "porco", "massa", "caldo", "conforto", "sem forno"],
+    "photo": "",
+    "featured": false,
+    "published": true
+  },
+  {
+    "id": "arroz-malandrinho-tamboril",
+    "title": "Arroz malandrinho de tamboril",
+    "category": "pratos-principais",
+    "servings": "4–5 pessoas",
+    "time": "40–50 min",
+    "difficulty": "Médio",
+    "miguelin": 5,
+    "intro": "Arroz caldoso de sabor português, com tamboril tenro, tomate, vinho branco e muitos coentros.",
+    "ingredients": [
+      "1,5 kg de tamboril",
+      "350 g de arroz carolino",
+      "1,4–1,5 l de caldo de peixe",
+      "2 cebolas",
+      "4 dentes de alho",
+      "Tomate",
+      "100 ml de vinho branco",
+      "Louro",
+      "Azeite",
+      "Coentros",
+      "Sal e pimenta"
+    ],
+    "steps": [
+      "Mantém o caldo de peixe quente num tacho à parte. Corta o tamboril em pedaços regulares e tempera-o levemente.",
+      "Refoga a cebola picada em azeite, em lume médio, até ficar macia e translúcida.",
+      "Junta o alho, o tomate e o louro. Cozinha até o tomate perder a água e formar um refogado concentrado.",
+      "Rega com o vinho branco e deixa ferver até o álcool evaporar.",
+      "Acrescenta o arroz carolino e envolve-o no refogado durante cerca de um minuto.",
+      "Junta o caldo quente e cozinha durante aproximadamente 12 minutos, mexendo de vez em quando.",
+      "Adiciona o tamboril e continua a cozedura durante 5–6 minutos, apenas até o peixe ficar opaco e tenro.",
+      "Ajusta o sal e a pimenta, junta os coentros picados e deixa repousar durante dois minutos. Serve ainda bem malandrinho."
+    ],
+    "tips": [
+      "Tem caldo quente de reserva: o arroz carolino continua a absorver líquido depois de sair do lume.",
+      "Junta o tamboril perto do fim para o manter suculento."
+    ],
+    "shopping": ["Tamboril", "Arroz carolino", "Caldo de peixe", "Cebolas", "Alho", "Tomate", "Vinho branco", "Louro", "Azeite", "Coentros"],
+    "tags": ["peixe", "arroz", "portuguesa", "tacho", "família", "sem forno"],
+    "photo": "",
+    "featured": true,
+    "published": true
+  },
+  {
+    "id": "tortilla-bacon-paprika",
+    "title": "Tortilla cremosa com bacon e paprika",
+    "category": "pratos-principais",
+    "servings": "4 pessoas",
+    "time": "55–60 min",
+    "difficulty": "Médio",
+    "miguelin": 4,
+    "intro": "Uma tortilla de interior cremoso, com batata confitada, cebola doce e o sabor fumado do bacon e da paprika.",
+    "ingredients": [
+      "700 g de batatas",
+      "6 ovos",
+      "1 cebola",
+      "120–150 g de bacon",
+      "Paprika",
+      "Azeite",
+      "Sal e flor de sal"
+    ],
+    "steps": [
+      "Descasca as batatas e corta-as em rodelas finas. Lamina também a cebola.",
+      "Aquece azeite numa frigideira e cozinha lentamente a batata e a cebola, sem deixar fritar em excesso, até ficarem muito macias.",
+      "Noutra frigideira, salteia o bacon até dourar e junta uma pitada de paprika fora do lume.",
+      "Escorre bem a batata e a cebola e deixa-as arrefecer ligeiramente.",
+      "Bate os ovos com sal, junta a batata, a cebola e o bacon e deixa a mistura repousar alguns minutos.",
+      "Deita a mistura numa frigideira antiaderente untada e cozinha em lume médio-baixo até as bordas prenderem.",
+      "Vira a tortilla com a ajuda de um prato e termina a cozedura do outro lado, deixando o centro cremoso. Finaliza com flor de sal."
+    ],
+    "tips": [
+      "Usa lume moderado e retira a tortilla antes de o centro secar: o calor residual termina a cozedura."
+    ],
+    "shopping": ["Batatas", "Ovos", "Cebola", "Bacon", "Paprika", "Azeite", "Sal"],
+    "tags": ["ovos", "porco", "espanhola", "frigideira", "sem forno", "família"],
+    "photo": "",
+    "featured": false,
+    "published": true
+  },
+  {
+    "id": "porco-cerveja-preta",
+    "title": "Porco com cerveja preta",
+    "category": "pratos-principais",
+    "servings": "4 pessoas",
+    "time": "40–50 min",
+    "difficulty": "Fácil",
+    "miguelin": 3,
+    "intro": "Carne de porco bem dourada num molho escuro e reconfortante de cebola, alho e cerveja preta.",
+    "ingredients": [
+      "Porco fatiado",
+      "Sal",
+      "Pimenta",
+      "Alho",
+      "Azeite",
+      "Manteiga",
+      "Cebolas",
+      "Louro",
+      "Açúcar mascavado opcional",
+      "Cerveja preta",
+      "Salsa",
+      "Vinho do Porto opcional"
+    ],
+    "steps": [
+      "Tempera a carne com sal, pimenta e alho e deixa-a repousar enquanto preparas os restantes ingredientes.",
+      "Aquece muito bem uma frigideira larga com um fio de azeite e sela a carne em pequenas porções, sem amontoar.",
+      "Retira a carne dourada para um prato e reserva os sucos que libertar.",
+      "Baixa o lume, junta um pouco de manteiga e cozinha a cebola com o alho e o louro até ficar macia e caramelizada nas bordas.",
+      "Rega com a cerveja preta, raspa o fundo da frigideira e deixa o molho reduzir. Junta açúcar mascavado ou vinho do Porto, se usares.",
+      "Volta a colocar a carne e os sucos na frigideira. Cozinha apenas até a carne ficar no ponto e o molho envolver bem cada pedaço.",
+      "Retira o louro, prova o tempero e termina com salsa picada antes de servir."
+    ],
+    "tips": [
+      "Sela a carne por etapas para a frigideira se manter quente e a carne dourar em vez de cozer.",
+      "Um pequeno toque de vinho do Porto dá mais profundidade ao molho."
+    ],
+    "shopping": ["Porco fatiado", "Cerveja preta", "Cebolas", "Alho", "Azeite", "Manteiga", "Louro", "Salsa"],
+    "tags": ["porco", "cerveja", "frigideira", "conforto", "sem forno"],
+    "photo": "",
+    "featured": false,
+    "published": true
+  },
+  {
+    "id": "carpaccio-ananas-lima-hortela",
+    "title": "Carpaccio de ananás com lima e hortelã",
+    "category": "sobremesas",
+    "servings": "4 pessoas",
+    "time": "30–40 min",
+    "difficulty": "Muito fácil",
+    "miguelin": 4,
+    "intro": "Ananás cortado bem fino, perfumado com lima e hortelã: uma sobremesa fresca para terminar a refeição sem pesar.",
+    "ingredients": [
+      "1 ananás maduro",
+      "Raspa de lima",
+      "Sumo de lima",
+      "Hortelã",
+      "Flor de sal",
+      "Mel opcional"
+    ],
+    "steps": [
+      "Descasca o ananás, retira os olhos e corta a polpa em fatias tão finas quanto conseguires.",
+      "Dispõe as fatias, ligeiramente sobrepostas, numa travessa larga.",
+      "Espalha por cima a raspa de lima e algumas gotas do sumo.",
+      "Junta folhas de hortelã cortadas ou rasgadas no momento.",
+      "Finaliza com uma pitada muito leve de flor de sal e um fio de mel, se o ananás precisar de mais doçura.",
+      "Leva ao frigorífico durante 20–30 minutos e serve bem fresco."
+    ],
+    "tips": [
+      "Uma faca muito afiada ajuda a conseguir fatias finas sem esmagar a fruta.",
+      "Prova o ananás antes de juntar mel: se estiver bem maduro, pode não precisar."
+    ],
+    "shopping": ["Ananás", "Lima", "Hortelã", "Flor de sal", "Mel"],
+    "tags": ["fruta", "fresco", "sem forno", "vegetariano", "rápido"],
+    "photo": "",
+    "featured": false,
+    "published": true
+  },
+  {
+    "id": "laranja-canela-mel-hortela",
+    "title": "Laranja com canela, mel e hortelã",
+    "category": "sobremesas",
+    "servings": "4 pessoas",
+    "time": "8 min",
+    "difficulty": "Muito fácil",
+    "miguelin": 4,
+    "intro": "Uma sobremesa de laranja simples e aromática, pronta em poucos minutos e ainda melhor quando servida fresca.",
+    "ingredients": [
+      "4 laranjas",
+      "Canela",
+      "Mel",
+      "Hortelã opcional"
+    ],
+    "steps": [
+      "Descasca as laranjas com uma faca, retirando também a parte branca exterior.",
+      "Corta-as em rodelas finas e dispõe-as numa travessa, aproveitando todo o sumo.",
+      "Polvilha levemente com canela.",
+      "Junta um fio fino de mel, ajustando a quantidade à doçura da fruta.",
+      "Termina com folhas de hortelã, se usares, e serve de imediato ou depois de alguns minutos no frigorífico."
+    ],
+    "tips": [
+      "Prepara a sobremesa com antecedência curta e serve-a fresca para realçar o sabor da laranja."
+    ],
+    "shopping": ["Laranjas", "Canela", "Mel", "Hortelã"],
+    "tags": ["fruta", "fresco", "sem forno", "vegetariano", "rápido"],
+    "photo": "",
+    "featured": false,
+    "published": true
+  }
+]
