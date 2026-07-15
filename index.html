@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#b4472f">
+  <meta name="description" content="Receitas testadas em casa por Miguel: simples, bem explicadas e feitas para repetir.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="À Mesa com o Miguel">
+  <meta property="og:description" content="Cozinha sem complicações, com sabor e vontade de repetir.">
+  <title>À Mesa com o Miguel — Receitas para repetir</title>
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/styles.css?v=3.0.0">
+</head>
+<body>
+  <a class="skip-link" href="#app">Saltar para o conteúdo</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#inicio" aria-label="À Mesa com o Miguel — início">
+        <img src="assets/logo.svg" alt="" width="44" height="44">
+        <span class="brand-copy">
+          <strong data-site-name>À Mesa com o Miguel</strong>
+          <small>Receitas para repetir</small>
+        </span>
+      </a>
+      <nav class="desktop-nav" aria-label="Navegação principal">
+        <a href="#receitas">Receitas</a>
+        <a href="#compras">Lista de compras <span class="nav-count" data-plan-count>0</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="app" tabindex="-1">
+    <div class="loading-state" role="status">
+      <span class="loading-mark" aria-hidden="true"></span>
+      <p>A preparar a mesa…</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div>
+      <img src="assets/logo.svg" alt="" width="38" height="38">
+      <p><strong data-site-name>À Mesa com o Miguel</strong><br><span data-footer-copy>Receitas testadas em casa, feitas para partilhar.</span></p>
+    </div>
+    <p class="footer-note">© <span id="year"></span> Miguel. Todos os direitos reservados.</p>
+  </footer>
+
+  <nav class="mobile-nav" aria-label="Navegação móvel">
+    <a href="#receitas"><span aria-hidden="true">⌂</span>Receitas</a>
+    <a href="#compras"><span aria-hidden="true">☑</span>Compras <b data-plan-count>0</b></a>
+  </nav>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="js/app.js?v=3.0.0"></script>
+</body>
+</html>
