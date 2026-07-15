@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title>À Mesa com o Miguel</title>
+  <rect width="128" height="128" rx="32" fill="#b4472f"/>
+  <circle cx="64" cy="64" r="39" fill="#f8f0e3"/>
+  <circle cx="64" cy="64" r="31" fill="none" stroke="#d9c6ad" stroke-width="2"/>
+  <path d="M42 78V48l12 20 10-16 10 16 12-20v30" fill="none" stroke="#6f261b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M37 90h54" stroke="#d19a51" stroke-width="4" stroke-linecap="round"/>
+</svg>
