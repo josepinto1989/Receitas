@@ -1,0 +1,215 @@
+media:
+  input: assets/photos
+  output: assets/photos
+  rename: safe
+  extensions: [jpg, jpeg, png, webp, avif]
+  categories: [image]
+
+content:
+  - name: site
+    label: Textos e identidade
+    type: file
+    path: data/site.json
+    format: json
+    fields:
+      - name: name
+        label: Nome do projeto
+        type: string
+        required: true
+        options:
+          maxlength: 60
+      - name: shortName
+        label: Nome curto
+        type: string
+        required: true
+        options:
+          maxlength: 40
+      - name: eyebrow
+        label: Frase pequena de apresentação
+        type: string
+        required: true
+        options:
+          maxlength: 70
+      - name: tagline
+        label: Frase principal
+        type: text
+        required: true
+        options:
+          maxlength: 130
+      - name: intro
+        label: Texto de apresentação
+        type: text
+        required: true
+        options:
+          maxlength: 260
+      - name: footer
+        label: Texto do rodapé
+        type: string
+        required: true
+        options:
+          maxlength: 100
+
+  - name: recipes
+    label: Receitas
+    type: file
+    path: data/recipes.json
+    format: json
+    list: true
+    fields:
+      - name: published
+        label: Visível no site
+        type: boolean
+        required: true
+        description: Desativa para guardar um rascunho sem o mostrar ao público.
+
+      - name: featured
+        label: Receita em destaque
+        type: boolean
+        required: true
+        description: Mantém apenas uma receita marcada como destaque.
+
+      - name: title
+        label: Nome da receita
+        type: string
+        required: true
+        options:
+          maxlength: 100
+
+      - name: id
+        label: Endereço curto
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9-]+$"
+          message: "Usa apenas letras minúsculas sem acentos, números e hífenes. Ex.: arroz-de-tamboril"
+        description: Usa o nome da receita em minúsculas, sem acentos e com hífenes. Não alteres depois de publicar.
+
+      - name: category
+        label: Categoria
+        type: select
+        required: true
+        options:
+          values:
+            - name: entradas
+              label: Entradas
+            - name: pratos-principais
+              label: Pratos principais
+            - name: sobremesas
+              label: Sobremesas
+
+      - name: intro
+        label: Resumo
+        type: text
+        required: true
+        options:
+          minlength: 30
+          maxlength: 220
+        description: Uma frase apelativa que explica o prato sem repetir o título.
+
+      - name: servings
+        label: Doses
+        type: string
+        required: true
+        description: "Ex.: 4 pessoas"
+
+      - name: time
+        label: Tempo total
+        type: string
+        required: true
+        description: "Ex.: 35 min ou 40–50 min"
+
+      - name: difficulty
+        label: Dificuldade
+        type: select
+        required: true
+        options:
+          values: [Muito fácil, Fácil, Médio, Difícil]
+
+      - name: miguelin
+        label: Classificação Miguelin
+        type: number
+        required: true
+        options:
+          min: 0
+          max: 5
+          step: 1
+
+      - name: ingredients
+        label: Ingredientes
+        type: string
+        required: true
+        list:
+          min: 1
+        description: Inclui quantidade, unidade e preparação em cada item.
+
+      - name: steps
+        label: Preparação
+        type: text
+        required: true
+        list:
+          min: 1
+        description: Um passo claro por item, pela ordem em que deve ser feito.
+
+      - name: tips
+        label: Dicas do Miguel
+        type: text
+        list: true
+
+      - name: shopping
+        label: Lista de compras
+        type: string
+        list: true
+        description: Nomes curtos, sem quantidades, usados para criar a lista de compras combinada.
+
+      - name: tags
+        label: Características
+        type: select
+        options:
+          multiple: true
+          values:
+            - peixe
+            - carne
+            - porco
+            - marisco
+            - vegetariano
+            - rápido
+            - sem forno
+            - arroz
+            - asiático
+            - fruta
+            - família
+            - portuguesa
+            - espanhola
+            - conforto
+            - tacho
+            - frigideira
+            - ovos
+            - massa
+            - caldo
+            - fresco
+            - acompanhamento
+            - cerveja
+            - pão
+            - para partilhar
+
+      - name: photo
+        label: Fotografia do prato
+        type: image
+        required: false
+        options:
+          categories: [image]
+          extensions: [jpg, jpeg, png, webp, avif]
+          rename: safe
+        description: Usa uma fotografia horizontal, luminosa e sem texto sobre a imagem.
+
+settings:
+  hide: true
+  content:
+    merge: true
+  commit:
+    identity: user
+    templates:
+      create: "Adicionar {path}"
+      update: "Atualizar {path}"
+      delete: "Remover {path}"
+      rename: "Mudar {oldPath} para {newPath}"
