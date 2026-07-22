@@ -1,13 +1,15 @@
 [
   {
-    "id": "ameijoas-bulhao-pato",
+    "published": true,
+    "featured": false,
     "title": "Amêijoas à Bulhão Pato",
+    "id": "ameijoas-bulhao-pato",
     "category": "entradas",
+    "intro": "Um clássico português cheio de frescura, com alho, coentros e um molho que pede pão à mesa.",
     "servings": "4 adultos + 1 criança",
     "time": "25–35 min",
     "difficulty": "Fácil",
     "miguelin": 5,
-    "intro": "Um clássico português cheio de frescura, com alho, coentros e um molho que pede pão à mesa.",
     "ingredients": [
       "2 kg de amêijoas",
       "80 ml de azeite",
@@ -40,20 +42,26 @@
       "Pimenta preta",
       "Pão"
     ],
-    "tags": ["marisco", "portuguesa", "rápido", "tacho", "sem forno", "para partilhar"],
-    "photo": "",
-    "featured": false,
-    "published": true
+    "tags": [
+      "marisco",
+      "portuguesa",
+      "rápido",
+      "tacho",
+      "sem forno",
+      "para partilhar"
+    ]
   },
   {
-    "id": "pan-con-tomate",
+    "published": true,
+    "featured": false,
     "title": "Pan con tomate",
+    "id": "pan-con-tomate",
     "category": "entradas",
+    "intro": "Pão bem tostado, tomate maduro e um fio generoso de azeite: poucos ingredientes, tratados como deve ser.",
     "servings": "4 pessoas",
     "time": "10 min",
     "difficulty": "Muito fácil",
     "miguelin": 4,
-    "intro": "Pão bem tostado, tomate maduro e um fio generoso de azeite: poucos ingredientes, tratados como deve ser.",
     "ingredients": [
       "Pão rústico ou baguete",
       "3 tomates maduros",
@@ -80,20 +88,25 @@
       "Flor de sal",
       "Presunto opcional"
     ],
-    "tags": ["vegetariano", "espanhola", "rápido", "sem forno", "pão"],
-    "photo": "",
-    "featured": false,
-    "published": true
+    "tags": [
+      "vegetariano",
+      "espanhola",
+      "rápido",
+      "sem forno",
+      "pão"
+    ]
   },
   {
-    "id": "salada-fresca-sem-pimentos",
+    "published": true,
+    "featured": false,
     "title": "Salada fresca sem pimentos",
+    "id": "salada-fresca-sem-pimentos",
     "category": "entradas",
+    "intro": "Uma salada leve e direta, com tomate, pepino, cebola roxa e um tempero vivo de Jerez e limão.",
     "servings": "4 pessoas",
     "time": "15 min",
     "difficulty": "Muito fácil",
     "miguelin": 3,
-    "intro": "Uma salada leve e direta, com tomate, pepino, cebola roxa e um tempero vivo de Jerez e limão.",
     "ingredients": [
       "3 tomates maduros",
       "1 pepino",
@@ -115,21 +128,34 @@
       "Se preferires uma cebola mais suave, passa-a por água fria depois de a laminar.",
       "Faz o tempero perto da hora de servir para os legumes manterem a textura."
     ],
-    "shopping": ["Tomates maduros", "Pepino", "Cebola roxa", "Azeitonas", "Azeite", "Vinagre de Jerez", "Limão"],
-    "tags": ["vegetariano", "fresco", "sem forno", "rápido", "acompanhamento"],
-    "photo": "",
-    "featured": false,
-    "published": true
+    "shopping": [
+      "Tomates maduros",
+      "Pepino",
+      "Cebola roxa",
+      "Azeitonas",
+      "Azeite",
+      "Vinagre de Jerez",
+      "Limão"
+    ],
+    "tags": [
+      "vegetariano",
+      "fresco",
+      "sem forno",
+      "rápido",
+      "acompanhamento"
+    ]
   },
   {
-    "id": "arroz-frito-camarao",
+    "published": true,
+    "featured": false,
     "title": "Arroz frito com camarão",
+    "id": "arroz-frito-camarao",
     "category": "pratos-principais",
+    "intro": "Uma forma rápida e cheia de sabor de transformar arroz frio num jantar completo, com camarão, legumes e ovo.",
     "servings": "2–3 pessoas",
     "time": "25–30 min",
     "difficulty": "Fácil",
     "miguelin": 4,
-    "intro": "Uma forma rápida e cheia de sabor de transformar arroz frio num jantar completo, com camarão, legumes e ovo.",
     "ingredients": [
       "2 chávenas de arroz cozido frio",
       "250 g de camarão cru descascado",
@@ -159,21 +185,39 @@
       "O arroz cozido do dia anterior fica mais solto e frita melhor.",
       "Trabalha com a frigideira bem quente e não a sobrecarregues."
     ],
-    "shopping": ["Arroz", "Camarão cru", "Ovos", "Cenoura", "Ervilhas", "Cebola", "Alho", "Molho de soja", "Óleo de sésamo", "Molho de ostra", "Óleo vegetal"],
-    "tags": ["marisco", "asiático", "arroz", "rápido", "frigideira", "sem forno"],
-    "photo": "",
-    "featured": false,
-    "published": true
+    "shopping": [
+      "Arroz",
+      "Camarão cru",
+      "Ovos",
+      "Cenoura",
+      "Ervilhas",
+      "Cebola",
+      "Alho",
+      "Molho de soja",
+      "Óleo de sésamo",
+      "Molho de ostra",
+      "Óleo vegetal"
+    ],
+    "tags": [
+      "marisco",
+      "asiático",
+      "arroz",
+      "rápido",
+      "frigideira",
+      "sem forno"
+    ]
   },
   {
-    "id": "ramen-caseiro-rapido",
+    "published": true,
+    "featured": false,
     "title": "Ramen caseiro rápido",
+    "id": "ramen-caseiro-rapido",
     "category": "pratos-principais",
+    "intro": "Uma tigela reconfortante de caldo aromático, noodles, porco salteado e ovo de gema cremosa.",
     "servings": "2 porções",
     "time": "35–45 min",
     "difficulty": "Médio",
     "miguelin": 5,
-    "intro": "Uma tigela reconfortante de caldo aromático, noodles, porco salteado e ovo de gema cremosa.",
     "ingredients": [
       "1 litro de água",
       "Caldo ou pasta miso",
@@ -201,21 +245,38 @@
       "O ovo pode ficar a marinar até 12 horas no frigorífico.",
       "Cozer os noodles à parte ajuda a manter o caldo mais limpo."
     ],
-    "shopping": ["Noodles", "Porco fatiado", "Ovos", "Caldo ou pasta miso", "Molho de soja", "Óleo de sésamo", "Alho", "Gengibre", "Vinagre de arroz", "Cebolinho"],
-    "tags": ["asiático", "porco", "massa", "caldo", "conforto", "sem forno"],
-    "photo": "",
-    "featured": false,
-    "published": true
+    "shopping": [
+      "Noodles",
+      "Porco fatiado",
+      "Ovos",
+      "Caldo ou pasta miso",
+      "Molho de soja",
+      "Óleo de sésamo",
+      "Alho",
+      "Gengibre",
+      "Vinagre de arroz",
+      "Cebolinho"
+    ],
+    "tags": [
+      "asiático",
+      "porco",
+      "massa",
+      "caldo",
+      "conforto",
+      "sem forno"
+    ]
   },
   {
-    "id": "arroz-malandrinho-tamboril",
+    "published": true,
+    "featured": true,
     "title": "Arroz malandrinho de tamboril",
+    "id": "arroz-malandrinho-tamboril",
     "category": "pratos-principais",
+    "intro": "Arroz caldoso de sabor português, com tamboril tenro, tomate, vinho branco e muitos coentros.",
     "servings": "4–5 pessoas",
     "time": "40–50 min",
     "difficulty": "Médio",
     "miguelin": 5,
-    "intro": "Arroz caldoso de sabor português, com tamboril tenro, tomate, vinho branco e muitos coentros.",
     "ingredients": [
       "1,5 kg de tamboril",
       "350 g de arroz carolino",
@@ -243,21 +304,38 @@
       "Tem caldo quente de reserva: o arroz carolino continua a absorver líquido depois de sair do lume.",
       "Junta o tamboril perto do fim para o manter suculento."
     ],
-    "shopping": ["Tamboril", "Arroz carolino", "Caldo de peixe", "Cebolas", "Alho", "Tomate", "Vinho branco", "Louro", "Azeite", "Coentros"],
-    "tags": ["peixe", "arroz", "portuguesa", "tacho", "família", "sem forno"],
-    "photo": "",
-    "featured": true,
-    "published": true
+    "shopping": [
+      "Tamboril",
+      "Arroz carolino",
+      "Caldo de peixe",
+      "Cebolas",
+      "Alho",
+      "Tomate",
+      "Vinho branco",
+      "Louro",
+      "Azeite",
+      "Coentros"
+    ],
+    "tags": [
+      "peixe",
+      "arroz",
+      "portuguesa",
+      "tacho",
+      "família",
+      "sem forno"
+    ]
   },
   {
-    "id": "tortilla-bacon-paprika",
+    "published": true,
+    "featured": false,
     "title": "Tortilla cremosa com bacon e paprika",
+    "id": "tortilla-bacon-paprika",
     "category": "pratos-principais",
+    "intro": "Uma tortilla de interior cremoso, com batata confitada, cebola doce e o sabor fumado do bacon e da paprika.",
     "servings": "4 pessoas",
     "time": "55–60 min",
     "difficulty": "Médio",
     "miguelin": 4,
-    "intro": "Uma tortilla de interior cremoso, com batata confitada, cebola doce e o sabor fumado do bacon e da paprika.",
     "ingredients": [
       "700 g de batatas",
       "6 ovos",
@@ -279,21 +357,35 @@
     "tips": [
       "Usa lume moderado e retira a tortilla antes de o centro secar: o calor residual termina a cozedura."
     ],
-    "shopping": ["Batatas", "Ovos", "Cebola", "Bacon", "Paprika", "Azeite", "Sal"],
-    "tags": ["ovos", "porco", "espanhola", "frigideira", "sem forno", "família"],
-    "photo": "",
-    "featured": false,
-    "published": true
+    "shopping": [
+      "Batatas",
+      "Ovos",
+      "Cebola",
+      "Bacon",
+      "Paprika",
+      "Azeite",
+      "Sal"
+    ],
+    "tags": [
+      "ovos",
+      "porco",
+      "espanhola",
+      "frigideira",
+      "sem forno",
+      "família"
+    ]
   },
   {
-    "id": "porco-cerveja-preta",
+    "published": true,
+    "featured": false,
     "title": "Porco com cerveja preta",
+    "id": "porco-cerveja-preta",
     "category": "pratos-principais",
+    "intro": "Carne de porco bem dourada num molho escuro e reconfortante de cebola, alho e cerveja preta.",
     "servings": "4 pessoas",
     "time": "40–50 min",
     "difficulty": "Fácil",
     "miguelin": 3,
-    "intro": "Carne de porco bem dourada num molho escuro e reconfortante de cebola, alho e cerveja preta.",
     "ingredients": [
       "Porco fatiado",
       "Sal",
@@ -321,21 +413,35 @@
       "Sela a carne por etapas para a frigideira se manter quente e a carne dourar em vez de cozer.",
       "Um pequeno toque de vinho do Porto dá mais profundidade ao molho."
     ],
-    "shopping": ["Porco fatiado", "Cerveja preta", "Cebolas", "Alho", "Azeite", "Manteiga", "Louro", "Salsa"],
-    "tags": ["porco", "cerveja", "frigideira", "conforto", "sem forno"],
-    "photo": "",
-    "featured": false,
-    "published": true
+    "shopping": [
+      "Porco fatiado",
+      "Cerveja preta",
+      "Cebolas",
+      "Alho",
+      "Azeite",
+      "Manteiga",
+      "Louro",
+      "Salsa"
+    ],
+    "tags": [
+      "porco",
+      "cerveja",
+      "frigideira",
+      "conforto",
+      "sem forno"
+    ]
   },
   {
-    "id": "carpaccio-ananas-lima-hortela",
+    "published": true,
+    "featured": false,
     "title": "Carpaccio de ananás com lima e hortelã",
+    "id": "carpaccio-ananas-lima-hortela",
     "category": "sobremesas",
+    "intro": "Ananás cortado bem fino, perfumado com lima e hortelã: uma sobremesa fresca para terminar a refeição sem pesar.",
     "servings": "4 pessoas",
     "time": "30–40 min",
     "difficulty": "Muito fácil",
     "miguelin": 4,
-    "intro": "Ananás cortado bem fino, perfumado com lima e hortelã: uma sobremesa fresca para terminar a refeição sem pesar.",
     "ingredients": [
       "1 ananás maduro",
       "Raspa de lima",
@@ -356,21 +462,32 @@
       "Uma faca muito afiada ajuda a conseguir fatias finas sem esmagar a fruta.",
       "Prova o ananás antes de juntar mel: se estiver bem maduro, pode não precisar."
     ],
-    "shopping": ["Ananás", "Lima", "Hortelã", "Flor de sal", "Mel"],
-    "tags": ["fruta", "fresco", "sem forno", "vegetariano", "rápido"],
-    "photo": "",
-    "featured": false,
-    "published": true
+    "shopping": [
+      "Ananás",
+      "Lima",
+      "Hortelã",
+      "Flor de sal",
+      "Mel"
+    ],
+    "tags": [
+      "fruta",
+      "fresco",
+      "sem forno",
+      "vegetariano",
+      "rápido"
+    ]
   },
   {
-    "id": "laranja-canela-mel-hortela",
+    "published": true,
+    "featured": false,
     "title": "Laranja com canela, mel e hortelã",
+    "id": "laranja-canela-mel-hortela",
     "category": "sobremesas",
+    "intro": "Uma sobremesa de laranja simples e aromática, pronta em poucos minutos e ainda melhor quando servida fresca.",
     "servings": "4 pessoas",
     "time": "8 min",
     "difficulty": "Muito fácil",
     "miguelin": 4,
-    "intro": "Uma sobremesa de laranja simples e aromática, pronta em poucos minutos e ainda melhor quando servida fresca.",
     "ingredients": [
       "4 laranjas",
       "Canela",
@@ -387,10 +504,71 @@
     "tips": [
       "Prepara a sobremesa com antecedência curta e serve-a fresca para realçar o sabor da laranja."
     ],
-    "shopping": ["Laranjas", "Canela", "Mel", "Hortelã"],
-    "tags": ["fruta", "fresco", "sem forno", "vegetariano", "rápido"],
-    "photo": "",
+    "shopping": [
+      "Laranjas",
+      "Canela",
+      "Mel",
+      "Hortelã"
+    ],
+    "tags": [
+      "fruta",
+      "fresco",
+      "sem forno",
+      "vegetariano",
+      "rápido"
+    ]
+  },
+  {
+    "published": true,
     "featured": false,
-    "published": true
+    "title": "Arroz de Amêijoas e Camarão",
+    "id": "arroz-ameijoas-camarao",
+    "category": "pratos-principais",
+    "intro": "Arroz malandro de Amêijoas e camarões",
+    "servings": "4 pessoas",
+    "time": "30 min",
+    "difficulty": "Fácil",
+    "miguelin": 4,
+    "ingredients": [
+      "Miolo de Ameijoas",
+      "Camarões Cozidos Inteiros",
+      "1 Cebola",
+      "Alho",
+      "Arroz - Preferencia Jasmin",
+      "Coentros",
+      "Pimenta Preta"
+    ],
+    "steps": [
+      "Preparar o Caldo - Minimo 15 min, idealmente 2 horas - 2 Litros\nDescascar os Camarões, guarda o miolo para depois e mete as cascas numa panela.\nAdiciona meia cebola, rudemente partida e 3 dentes de Alho esmagados.\nAdiciona uns ramos de coentros e umas bolas de pimenta Preta",
+      "Mete tudo ao lume, quando começar a ferver fechar a tampa e deixar em lume brando até ser necessário usar.",
+      "Picar meia cebola e refogar em bastante azeite noutra panela até ficar loura",
+      "Adicionar um copo de arroz e misturar tudo muito bem até o arroz ganhar uma cor amarela",
+      "Adicionar o Caldo (deve ter ficado no minimo 15 min a apurar) usando um coador para apenas o líquido seja adicionado.",
+      "Adicionar Sal a gosto e ir mexendo o arroz pontualmente durante aproximadamente 10 min",
+      "Adicionar as Amêijoas e Camarões perto do fim cerca de 4 min antes de o arroz estar pronto e mexer bem.",
+      "Por fim adicionar coentros picados e pimenta preta e servir na Panela."
+    ],
+    "tips": [
+      "Podes adicionar enlatados (ameijoas, navalhas, etc).\nAbre as latas e usa os liquidos no caldo e adicione depois o conteúdo junto com as amêijoas e camarões.",
+      "Pão fatiado como acompanhamento fica sempre bom."
+    ],
+    "shopping": [
+      "Ameijoas",
+      "Camarões Cozidos",
+      "Arroz",
+      "Coentros",
+      "Cebola",
+      "Alho",
+      "Pimenta Preta"
+    ],
+    "tags": [
+      "peixe",
+      "arroz",
+      "conforto",
+      "tacho",
+      "caldo",
+      "pão",
+      "portuguesa"
+    ]
   }
 ]
